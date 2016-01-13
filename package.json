@@ -4,7 +4,8 @@
   "description": "Write a simple TCP server assignment",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "index.js",
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/max33nau/tcpServer#readme",
   "devDependencies": {
     "chai": "^3.4.1",
+    "chance": "^0.8.0",
     "gulp": "^3.9.0",
     "gulp-jshint": "^2.0.0",
     "gulp-mocha": "^2.2.0",
