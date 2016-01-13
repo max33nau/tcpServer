@@ -1,0 +1,28 @@
+{
+  "name": "tcpserver",
+  "version": "1.0.0",
+  "description": "Write a simple TCP server assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max33nau/tcpServer.git"
+  },
+  "author": "Max Jacobsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max33nau/tcpServer/issues"
+  },
+  "homepage": "https://github.com/max33nau/tcpServer#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0",
+    "mocha": "^2.3.4"
+  }
+}
